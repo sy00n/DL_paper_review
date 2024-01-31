@@ -1,10 +1,10 @@
 # DL_paper_review
 
 읽은 논문을 git issue에 요약합니다.
-- [x] TOKEN-LABEL ALIGNMENT FOR VISION TRANSFORMERS (2023 ICLR)
-- [ ] All Tokens Matter: Token Labeling for Training Better Vision Transformers (2021 Neurips)
-- [x] Tuning Multi-mode Token-level Prompt Alignment across Modalities (2023 Arxiv)
-- [ ] Token Contrast for Weakly-Supervised Semantic Segmentation (2023 CVPR)
-- [ ] ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation (2022 CVPR)
+- [ ] Test-time prompt tuning for zero-shot generalization in vision-language models (2022 NeurIPS)
+- [ ] Dualprompt: Complementary prompting for rehearsal-free continual learning (2022 ECCV)
+- [ ] Feature-Proxy Transformer for Few-Shot Segmentation (2022 NeurIPS)
+- [ ] Deep class-incremental learning: A survey (2023 Arxiv)
+- [ ] Attempt: Parameter-efficient multi-task tuning via attentional mixtures of soft prompts (2022 EMNLP)
 - [ ] Learning to Prompt for Continual Learning (2022 CVPR)
-- [ ] PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification (2023 ICCV)
+- [ ] Visual Prompt Tuning for Test-time Domain Adaptation (2022 Arxiv)
