@@ -8,3 +8,4 @@
 - [ ] Attempt: Parameter-efficient multi-task tuning via attentional mixtures of soft prompts (2022 EMNLP)
 - [ ] Learning to Prompt for Continual Learning (2022 CVPR)
 - [ ] Visual Prompt Tuning for Test-time Domain Adaptation (2022 Arxiv)
+- [ ] S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning (2022 NeurIPS)
